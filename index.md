@@ -5,7 +5,7 @@ layout: page
 
 # About Me
 
-<img src="https://cloverkid.world/images/Clover.JPG" class="floatpic" width="500" height="480">
+<img src="https://cloverkid.world/images/Clover.JPG" class="floatpic">
 
 Here is **SiUn Zhu Huang (Clover, 朱黄思源)**.
 
