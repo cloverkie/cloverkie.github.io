@@ -3,9 +3,9 @@ layout: page
 
 ---
 
-# Basic Information
+# About Me
 
-<img src="https://cloverkid.world/images/Clover.JPG" class="floatpic" width="520" height="400">
+<img src="https://cloverkid.world/images/Clover1.JPG" class="floatpic">
 
 Here is **SiUn Zhu Huang (Clover, 朱黄思源)**.
 
@@ -35,10 +35,15 @@ I am a senior student majoring in **Cyber Security** at Guangdong University of 
 My current research focuses on privacy computing with FL and cryptography technology. My interests are on the **Machine Learning** and its applications in protecting private *medical* data.
 
 <br>
-- CTF
-- Cryptography
-- Machine Learning
 
-My current research focuses on privacy computing with FL and cryptography technology. My interests are on the **Machine Learning** and its applications in protecting private *medical* data.
+------
 
-<br>
+## Loved and Respected
+
+[HO KA CHONG, WILSON](https://www.mpu.edu.mo/esca/en/academic_staff.php)
+
+[TAN TAO](https://www.mpu.edu.mo/esca/en/academic_staff.php)
+
+[Bolin Xie](https://sist.gdufs.edu.cn/info/1225/1633.htm)
+
+[Changji Wang](https://sist.gdufs.edu.cn/info/1260/1634.htm)
