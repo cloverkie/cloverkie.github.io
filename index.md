@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-![Clover1](https://cdn.jsdelivr.net/gh/cloverkie/blogImage/img/202309121331058.JPG )
+![Clover1](images/Clover.JPG )
 
 Here is **SiUn ChuWong (Clover, 朱黄思源)**.
 
