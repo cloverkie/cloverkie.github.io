@@ -3,17 +3,17 @@ layout: page
 
 ---
 
-# About Me
+# Basic Information
 
-<img src="https://cloverkid.world/images/Clover.JPG" class="floatpic">
+<img src="https://cloverkid.world/images/Clover.JPG" class="floatpic" width="520" height="400">
 
 Here is **SiUn Zhu Huang (Clover, 朱黄思源)**.
 
-I am a senior student majoring in **Cyber Security** at Guangdong University of Foreign Studies and **Enterprise Information Systems** at Macao Polytechnic University (Exchange Program). Currently, I am studying in the cryptography lab at GDUFS, advised by [Prof. Changji Wang](https://sist.gdufs.edu.cn/info/1291/2153.htm). Here is [[my CV](file/CV_GDUFS_ZHUHUANGSIYUAN.pdf)].
+I am a senior student majoring in **Cyber Security** at Guangdong University of Foreign Studies and **Enterprise Information Systems** at Macao Polytechnic University (Exchange Program). Currently, I am studying in the cryptography lab at GDUFS, advised by [Prof. Changji Wang](https://sist.gdufs.edu.cn/info/1291/2153.htm). Here is [[my CV](https://cloverkid.world/file/CV_GDUFS_ZHUHUANGSIYUAN.pdf)].
 
 <br>
 
-## Academic Background
+## Education Background
 
 **<font color='red'>I am looking for MSc/PhD to start in 2024 Fall. Contact me if you have any leads!</font> **
 
@@ -28,6 +28,13 @@ I am a senior student majoring in **Cyber Security** at Guangdong University of 
 ## Research Interests
 
 - Cyber Security
+- CTF
+- Cryptography
+- Machine Learning
+
+My current research focuses on privacy computing with FL and cryptography technology. My interests are on the **Machine Learning** and its applications in protecting private *medical* data.
+
+<br>
 - CTF
 - Cryptography
 - Machine Learning
